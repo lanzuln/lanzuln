@@ -5,7 +5,7 @@
 
 <h2 align="left">Some of my php Laravel project here</h2>
 
-<p>- 🌍 [Multi vendor ecommerce - live preview](http://easyshopping.lanzu.info/)  /   [source code](https://github.com/lanzuln/multi-vendor-ecommerce)</p>
+- 🌍 [Multi vendor ecommerce - live preview](http://easyshopping.lanzu.info/)  /   [source code](https://github.com/lanzuln/multi-vendor-ecommerce)
 
 
 
