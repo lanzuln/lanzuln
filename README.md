@@ -6,7 +6,7 @@
 
 
  <br>
-<h3 align="left">Some of my php Laravel project live link here</h3>
+<h3 align="left">Some of my live php Laravel project link here</h3>
 
 - 🌍 [Multi vendor ecommerce - live preview](http://easyshopping.lanzu.info)  /   [source code](https://github.com/lanzuln/multi-vendor-ecommerce)
 - 🌍 [single vendor ecommerce - live preview](http://singlevendor.lanzu.info)  /   [source code](https://github.com/lanzuln/Single-vendor-ecom)
