@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. shariful hyder lanzu</h1>
 <p align="center">I am a skilled and motivated Web Developer, with a strong understanding of web development principles. Seeking to contribute my expertise to a dynamic team and create innovative web solutions that exceed client expectations</p>
 
-<h2 align="left">Some of my php Laravel project here</h2>
+<h3 align="left">Some of my php Laravel project here</h3>
 
 - 🌍 [Multi vendor ecommerce - live preview](http://easyshopping.lanzu.info/)  /   [source code](https://github.com/lanzuln/multi-vendor-ecommerce)
 
