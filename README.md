@@ -4,7 +4,7 @@
 <p align="center">I am a skilled and motivated Web Developer, with a strong understanding of web development principles. Seeking to contribute my expertise to a dynamic team and create innovative web solutions that exceed client expectations</p>
 
 <h2 align="left">Some of my php Laravel project here</h2>
-- 🔭 I’m currently working on [Multi vendor eCommerce](http://easyshopping.lanzu.info/)
+<p>- 🔭 I’m currently working on [Multi vendor eCommerce](http://easyshopping.lanzu.info/)</p>
 - 🔭 I’m currently working on [Multi vendor](http://easyshopping.lanzu.info/)
 - 🔭 I’m currently working on [Multi vendor](http://easyshopping.lanzu.info/)
 
