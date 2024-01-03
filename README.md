@@ -4,8 +4,7 @@
 <p align="center">I am a skilled and motivated Web Developer, with a strong understanding of web development principles. Seeking to contribute my expertise to a dynamic team and create innovative web solutions that exceed client expectations</p>
 
 
-<h2 align="center">Some of my project list</h2>
-<span><button>Multi vendor ecom</button></span>
+- 🔭 I’m currently working on [Multi vendor](http://easyshopping.lanzu.info/)
 
 
 
