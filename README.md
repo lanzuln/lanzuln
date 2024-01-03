@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on [Multi vendor](http://easyshopping.lanzu.info/)
 - 🔭 I’m currently working on [Multi vendor](http://easyshopping.lanzu.info/)
 
+- 🌍 [Multi vendor](http://easyshopping.lanzu.info/)
 
 
 
