@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. shariful hyder lanzu</h1>
 <h3 align="center">I am a skilled and motivated Web Developer, with a strong understanding of web development principles. Seeking to contribute my expertise to a dynamic team and create innovative web solutions that exceed client expectations</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanzuln" alt="lanzuln" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
